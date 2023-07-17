@@ -1,3 +1,1 @@
-# APF tutorial
-
- [Tutorial](https://github.com/FilipeAlmeidaFEUP/ros2_flatland_pf_tutorial)
+# APF tutorial ([link](https://github.com/FilipeAlmeidaFEUP/ros2_flatland_pf_tutorial))
